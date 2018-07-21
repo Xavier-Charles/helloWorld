@@ -1,3 +1,5 @@
 # helloWorld
 Starting out github
-Machine learning with neural nets
+Machine learning codes.
+
+Machine learning with neural nets 
